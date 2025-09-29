@@ -14,4 +14,4 @@
 - 📦 Application d’inventaire avec Power Apps & NFC  
 - 🌐 Portfolio en ligne : [http://92.88.3.200:8083](http://92.88.3.200:8083)  
 
-📫 Contacte-moi : [LinkedIn](https://www.linkedin.com/in/rewann-tannou)  
+📫 Contacte-moi : [LinkedIn]([https://www.linkedin.com/in/rewann-tannou](https://www.linkedin.com/in/rewann-tannou-772054293))  
